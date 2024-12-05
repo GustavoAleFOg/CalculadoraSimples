@@ -1,0 +1,21 @@
+body {
+  background-color: blue;
+}
+h1 {
+   text-align: center;
+ }
+ 
+ 
+ h2 {
+   text-align: center;
+    border: solid 1px #000;
+    border-radius: 25px;
+    margin-top: 5px;
+    background-color: darkgreen;
+
+ }
+
+div .card{
+  border: solid 8px #000
+}
+
